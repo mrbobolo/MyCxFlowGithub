@@ -1,6 +1,7 @@
 Sergio Test 2
 Modification le 11.5 a 17h24
 Come On!!!
+Will it Work?
 The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
 
 > ### Please note that The BodgeIt Store is no longer being worked on
